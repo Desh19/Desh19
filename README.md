@@ -1,7 +1,7 @@
 [![MasterHead](https://rabbitinfotech.com/wp-content/uploads/2021/03/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif)](https://desh19.io)
 <h1 align="center">Hi 👋, I'm Deshan Rajapaksha</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400"src="https://33.media.tumblr.com/503737e4a2c7ec0e3ccaa2582a353faf/tumblr_nrmxweu51d1qfc72zo1_400.gif">
+<img align="right" alt="Coding" width="400"src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desh19&label=Profile%20views&color=0e75b6&style=flat" alt="desh19" /> </p>
 
