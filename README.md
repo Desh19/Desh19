@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **1019deshan@gmail.com**
 
-- ⚡ Profile **I am a 3rd year Software Engineering undergraduate having experience on using java, PHP, JavaScript technologies to create and implement software and applications. I consider myself to be a very dedicated, hardworking, confident and honest individual who can adjust to any environment and perform efficiently. I am open to new ideas and willing to learn new things and change accordingly. Teamwork is my cup of tea. but I love working independently too. I am confident that I'd be an asset to the company I work for.**
+- ⚡ Profile **I am a 4th year Software Engineering undergraduate having experience on using java, C#, PHP, JavaScript, Angular, technologies to create and implement software and applications. I consider myself to be a very dedicated, hardworking, confident and honest individual who can adjust to any environment and perform efficiently. I am open to new ideas and willing to learn new things and change accordingly. Teamwork is my cup of tea. but I love working independently too. I am confident that I'd be an asset to the company I work for.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
