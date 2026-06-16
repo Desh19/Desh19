@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **1019deshan@gmail.com**
 
-- ⚡ Profile **I am a 4th year Software Engineering undergraduate having experience on using java, C#, PHP, JavaScript, Angular, technologies to create and implement software and applications. I consider myself to be a very dedicated, hardworking, confident and honest individual who can adjust to any environment and perform efficiently. I am open to new ideas and willing to learn new things and change accordingly. Teamwork is my cup of tea. but I love working independently too. I am confident that I'd be an asset to the company I work for.**
+- ⚡ Profile **I am a Frontend Software Engineer with 3+ years of experience developing Angular and React applications for e-commerce, retail, and enterprise platforms. Skilled in TypeScript, JavaScript, REST API integration, responsive web development, and frontend architecture. Experienced in delivering production-ready solutions including POS systems, administration portals, and Microsoft Dynamics integrations. Passionate about building intuitive user experiences, writing maintainable code, and developing scalable web applications.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
