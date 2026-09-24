@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **1019deshan@gmail.com**
 
-- ⚡ Profile **I am a Frontend Software Engineer with 3+ years of experience developing Angular and React applications for e-commerce, retail, and enterprise platforms. Skilled in TypeScript, JavaScript, REST API integration, responsive web development, and frontend architecture. Experienced in delivering production-ready solutions including POS systems, administration portals, and Microsoft Dynamics integrations. Passionate about building intuitive user experiences, writing maintainable code, and developing scalable web applications.**
+- ⚡ Profile **I am a Software Engineer with 4+ years of experience developing Angular and React applications for e-commerce, retail, and enterprise platforms. Skilled in TypeScript, JavaScript, REST API integration, responsive web development, and frontend architecture. Experienced in delivering production-ready solutions including POS systems, administration portals, and Microsoft Dynamics integrations. Passionate about building intuitive user experiences, writing maintainable code, and developing scalable web applications.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
